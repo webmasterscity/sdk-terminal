@@ -1,6 +1,7 @@
 {
     "name": "webmasterscity/sdkleo",
     "type": "sdk",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Webmasterscity\\Sdkleo\\": "src/"

@@ -1,29 +1,17 @@
 {
     "name": "webmasterscity/sdk-terminal",
     "description": "Mi Libreria personalizada",
-    "type": "sdk",
+    "type": "library",
     "license": "MIT",
-    "version": "1.0.0",
     "authors": [
         {
             "name": "Leonardo Melencez",
             "email": "ds000082@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/webmasterscity/sdk-terminal"
-        }
-    ],
-    "require": {
-        "php": ">=5.3.0|>=8.1"
-    },
     "autoload": {
         "psr-4": {
             "MiLibreria\\": "src/"
         }
     }
 }
-

@@ -1,18 +1,16 @@
 {
-    "name": "webmasterscity/sdk-terminal",
-    "description": "Mi Libreria personalizada",
-    "type": "library",
-    "license": "MIT",
+    "name": "webmasterscity/sdkleo",
+    "type": "sdk",
+    "autoload": {
+        "psr-4": {
+            "Webmasterscity\\Sdkleo\\": "src/"
+        }
+    },
     "authors": [
         {
-            "name": "Leonardo Melencez",
+            "name": "webmasterscity",
             "email": "ds000082@gmail.com"
         }
     ],
-    "version": "1.0.0",
-    "autoload": {
-        "psr-4": {
-            "MiLibreria\\": "src/"
-        }
-    }
+    "require": {}
 }

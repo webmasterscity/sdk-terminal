@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'MiLibreria\\' => array($baseDir . '/src'),
+    'Webmasterscity\\Sdkleo\\' => array($baseDir . '/src'),
 );

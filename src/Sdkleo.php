@@ -1,8 +1,8 @@
 <?php
 
-namespace MiLibreria;
+namespace Webmasterscity\Sdkleo;
 
-class MiLibreria
+class Sdkleo
 {
     public function saludar($nombre)
     {

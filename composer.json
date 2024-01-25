@@ -3,6 +3,7 @@
     "description": "Mi Libreria personalizada",
     "type": "sdk",
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Leonardo Melencez",
@@ -16,3 +17,4 @@
         }
     }
 }
+

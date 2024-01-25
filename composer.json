@@ -10,7 +10,7 @@
             "email": "ds000082@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "repositories": [
         {
             "type": "vcs",

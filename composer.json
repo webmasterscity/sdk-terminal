@@ -1,0 +1,18 @@
+{
+    "name": "webmasterscity/sdk-terminal",
+    "description": "Mi Libreria personalizada",
+    "type": "sdk",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Leonardo Melencez",
+            "email": "ds000082@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "MiLibreria\\": "src/"
+        }
+    }
+}
